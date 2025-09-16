@@ -36,7 +36,7 @@ A arquitetura foi projetada para ser modular e desacoplada, com uma clara separa
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/sttve/Resoluti.git
+    git clone https://github.com/sttve/dynamic-nav-tables
     ```
 
 2.  **Instale as dependências:**
